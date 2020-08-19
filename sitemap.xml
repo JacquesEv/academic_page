@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/author/jacques-everwyn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/tags/</loc>
+  </url>
+  
+</urlset>
