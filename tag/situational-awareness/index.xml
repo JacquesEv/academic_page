@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>situational awareness | Academic</title>
+    <link>https://jacquesev.github.io/academic_page/tag/situational-awareness/</link>
+      <atom:link href="https://jacquesev.github.io/academic_page/tag/situational-awareness/index.xml" rel="self" type="application/rss+xml" />
+    <description>situational awareness</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 15:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://jacquesev.github.io/academic_page/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>situational awareness</title>
+      <link>https://jacquesev.github.io/academic_page/tag/situational-awareness/</link>
+    </image>
+    
+    <item>
+      <title>Achieving maritime situational awareness using knowledge graphs: a study</title>
+      <link>https://jacquesev.github.io/academic_page/publication/nato2019/</link>
+      <pubDate>Tue, 08 Oct 2019 15:00:00 +0200</pubDate>
+      <guid>https://jacquesev.github.io/academic_page/publication/nato2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

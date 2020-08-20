@@ -3,11 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jacquesev.github.io/academic_page/publication-type/1/</loc>
+    <lastmod>2019-11-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jacquesev.github.io/academic_page/</loc>
+    <lastmod>2019-11-21T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://jacquesev.github.io/academic_page/authors/</loc>
+    <lastmod>2019-11-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/author/guillaume-gadek/</loc>
+    <lastmod>2019-11-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/author/jacques-everwyn/</loc>
+    <lastmod>2019-11-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/publication/iadef2019/</loc>
+    <lastmod>2019-11-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/publication_types/</loc>
+    <lastmod>2019-11-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/publication/</loc>
+    <lastmod>2019-11-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/author/valerian-justine/</loc>
+    <lastmod>2019-11-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/author/abdel-illah-mouaddib/</loc>
+    <lastmod>2019-10-08T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/publication/nato2019/</loc>
+    <lastmod>2019-10-08T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/author/bruno-zanuttini/</loc>
+    <lastmod>2019-10-08T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/tag/deep-learning/</loc>
+    <lastmod>2019-10-08T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/tag/knowledge-graphs/</loc>
+    <lastmod>2019-10-08T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/tag/link-prediction/</loc>
+    <lastmod>2019-10-08T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/tag/situational-awareness/</loc>
+    <lastmod>2019-10-08T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/author/stephan-brunessaux/</loc>
+    <lastmod>2019-10-08T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/author/sylvain-gatepaille/</loc>
+    <lastmod>2019-10-08T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/tags/</loc>
+    <lastmod>2019-10-08T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/publication-type/0/</loc>
+    <lastmod>2019-07-01T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquesev.github.io/academic_page/publication/pfia2019/</loc>
+    <lastmod>2019-07-01T15:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -23,19 +120,7 @@
   </url>
   
   <url>
-    <loc>https://jacquesev.github.io/academic_page/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jacquesev.github.io/academic_page/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://jacquesev.github.io/academic_page/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jacquesev.github.io/academic_page/tags/</loc>
   </url>
   
 </urlset>

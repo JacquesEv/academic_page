@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valérian Justine | Academic</title>
+    <link>https://jacquesev.github.io/academic_page/author/valerian-justine/</link>
+      <atom:link href="https://jacquesev.github.io/academic_page/author/valerian-justine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valérian Justine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://jacquesev.github.io/academic_page/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Valérian Justine</title>
+      <link>https://jacquesev.github.io/academic_page/author/valerian-justine/</link>
+    </image>
+    
+    <item>
+      <title>Manipulation and fake news detection on social media: a two domain survey, combining social network analysis and knowledge bases exploitation</title>
+      <link>https://jacquesev.github.io/academic_page/publication/iadef2019/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0200</pubDate>
+      <guid>https://jacquesev.github.io/academic_page/publication/iadef2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
